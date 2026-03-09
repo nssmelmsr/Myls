@@ -2,7 +2,7 @@
 Own custom alternative for ls command
 ## USAGE
 
-./myls <directory>
+./myls [directory]
 
 If there is not a directory selected myls will display current directory (.)
 
