@@ -1,0 +1,5 @@
+*** TO DO ***
+
+Show only visible files
+
+add support for flags (ex. -i -a)
